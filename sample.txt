@@ -1,0 +1,73 @@
+*The Insight Gazette – v I01*
+
+*Peak summers and peak news. Interesting bite-sized stories from inside your land to surveilling the foreign lands*
+Welcome to the weekly newspaper from the *Center of Training and Development (CTD)*
+Edition Date: Monday, 23 June 2025
+
+*INDIA*
+
+*1. Is India’s Space Race Truly Opening to the Private Sector*
+
+If privatisation means giving the private sector more power, does handing ISRO’s new rocket to a government-run company count?
+
+Hindustan Aeronautics Ltd (HAL) has won a ₹511 crore contract from ISRO to take full ownership of the Small Satellite Launch Vehicle (SSLV). Though the move was billed as a major step toward privatising India’s space sector, the fact that HAL is a defence ministry-run PSU has raised eyebrows.
+
+Selected over private competitors like Adani Defence and Bharat Dynamics, HAL will handle end-to-end production, operations, and client management for SSLV. While some analysts see this as a recycling of government funds and question HAL’s track record, others note this may be a temporary compromise due to limited private readiness.
+
+The decision reflects India’s cautious approach to space commercialisation and leaves the door open for private players like Agnikul and Skyroot to step in and lead innovation in the future.
+
+*2. Japan’s BeyondNext Sets Eyes on Indian Deeptech Startups*
+
+What happens when Japanese capital meets Indian innovation?
+
+Japanese VC firm BeyondNext Ventures is setting up a \$50 million India-focused fund aimed at deeptech, AI, and semiconductor startups. The firm, already present in India since 2019, is doubling down on early-stage ventures with an eye on biotech, contextualised AI, and scalable local solutions.
+
+The fund will back 20 to 25 companies over five years, with cheques starting at \$250,000 and going up to \$2 million. BeyondNext is especially bullish on startups disrupting the semiconductor value chain and intends to connect Indian ventures with Japanese distribution giants.
+
+Its unique BRAVE incubation model—pairing scientists with business talent—has already birthed 52 ventures in Japan. The same approach is now being adapted to the Indian context, offering not just funding but a growth framework rooted in deeptech commercialisation.
+
+*3. Sarvam’s AI Ambition Mirrors Big Tech Strategy*
+
+What defines AI success—government support or market impact?
+
+Sarvam, India’s most well-funded AI startup, is adopting a full-stack strategy similar to global tech giants. From model development to application deployment, the IIT Madras-incubated firm wants to offer enterprise-grade AI across sectors.
+
+It was the first to receive subsidised chip access from the Indian government, but the founders insist the public support is a springboard—not a crutch. Though its Sarvam-M model was built on a French AI base (Mistral), the startup is already working with leading Indian companies and reaching millions of users.
+
+Backed by \$53 million in funding, Sarvam plans to raise more soon and continue scaling solutions tailored to Indian challenges. The founders push back against criticism of its dependence on state support, stressing that it is building population-scale AI that serves both public and private needs.
+
+---
+
+*GLOBAL*
+
+*1. Can the US and EU Patch Things Up Without Tackling Tariffs*
+
+Are trade talks really complete if tariffs are left off the table?
+
+The US and EU are nearing a deal on nontariff trade issues like tech regulation, carbon border taxes, and deforestation compliance. The draft includes a temporary exemption for US firms under the EU’s Digital Markets Act and delays enforcement of new environmental import rules.
+
+However, the elephant in the room remains unaddressed: tariffs. Trump’s threatened duties and EU’s proposed retaliation are not covered in this round of agreements. Talks may still continue, but the upcoming July deadlines could make or break the negotiation path.
+
+While there’s diplomatic progress on digital and climate fronts, trade tensions remain a step away from resolution.
+
+*2. EU Moves to Curb Chinese Access in Medical Procurement*
+
+Is fair trade still fair if it excludes others?
+
+The EU will now restrict Chinese companies from bidding on public medical device contracts above €5 million. The decision follows an investigation that found 87 percent of Chinese public procurement blocked EU firms, prompting Brussels to act under its new International Procurement Instrument.
+
+Successful bids in the EU can no longer contain more than 50 percent Chinese-made devices unless no alternatives exist. While framed as a move toward market fairness, Beijing has criticised the EU’s step as protectionist.
+
+With trade tensions already high over EV tariffs and brandy, this adds another layer to the strained EU-China relationship.
+
+*3. UK Inflation Dips Slightly but Rising Oil Prices Cloud Outlook*
+
+Is the worst of UK inflation behind us—or just on pause?
+
+Inflation in the UK eased to 3.4 percent in May from 3.5 percent in April, aligning with expectations. Core and services inflation also declined, helped by lower energy and travel costs. However, geopolitical tensions in the Middle East have triggered an oil price rally that could soon reverse these gains.
+
+The Bank of England is expected to maintain its current 4.25 percent interest rate, with markets hoping for a potential cut in August. Still, policymakers remain cautious as energy volatility threatens to derail inflation control.
+
+With inflation still a percentage point above that of the US and EU, the UK is treading a fine line between stability and surprise.
+
+We this we finish this weeks major stories from the markets and global stages. See you next Monday !!
